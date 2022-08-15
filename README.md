@@ -1,22 +1,35 @@
 # Stage 0.
 
-# General
-- [x] 0. Git Basics :+1: 
+### General
+:white_check_mark: 0. Git Basics :+1: 
 <details>
 <summary>Враження!</summary>
-З цього курсу дізнався багато нового і корисного, не думав що це настільки функціональна програма, коли просто продивився відео і повторив, здалося що це просто, але це було помилкове враження, повторити ще раз без підсказок важко :) </details>
+
+**З цього курсу дізнався багато нового і корисного, не думав що це настільки функціональна програма, коли просто продивився відео і повторив, здалося що це просто, але це було помилкове враження, повторити ще раз без підсказок важко :) Головне практика!**
+
+![image](https://user-images.githubusercontent.com/79164191/184672178-0d05d924-2fa3-4093-b694-595238caa463.png)
+
+![image](https://user-images.githubusercontent.com/79164191/184672385-4fb00ab9-4109-4f8d-a3a0-9081127734fe.png)
+
+![image](https://user-images.githubusercontent.com/79164191/184672515-1d1d3d34-f43f-4997-9075-9f7659b68001.png)
+
+
+
+</details>
+
+___
 
 - [ ] 1. Linux CLI and Networking
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
-# Front-End Basics
+### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model
  
-# Advanced Topics
+### Advanced Topics
 - [ ] 8. Building a Tiny JS World (pre-OOP)
 - [ ] 9. Object oriented JS
 - [ ] 10. OOP exercise
