@@ -19,7 +19,28 @@
 
 ___
 
-- [ ] 1. Linux CLI and Networking
+## Linux CLI, and HTTP
+
+:white_check_mark: 1. Linux CLI and Networking :+1:
+<details>
+<summary>Враження!</summary>
+
+**Linux CLI, and HTTP - дуже цікава і важка тема для розуміння особливо HTTP дуже важко зрозуміти якщо ти не практикував, але все згодом і більше практикувати потрібно.**
+
+![image](task_linux_cli/linux1.jpg)
+
+![image](task_linux_cli/linux2.jpg)
+
+![image](task_linux_cli/linux3.jpg)
+
+![image](task_linux_cli/linux4.jpg)
+
+
+
+</details>
+
+___
+
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
